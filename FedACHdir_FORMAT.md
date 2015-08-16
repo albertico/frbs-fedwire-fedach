@@ -1,6 +1,6 @@
 # FedACH Directory File Format
 
-Source: https://www.frbservices.org/EPaymentsDirectory/achFormat.html
+**Source:** https://www.frbservices.org/EPaymentsDirectory/achFormat.html
 
 | Field Name | Length | Position | Description |
 | --- | --- | --- | --- |

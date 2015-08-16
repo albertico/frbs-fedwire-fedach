@@ -1,6 +1,6 @@
 # Fedwire Directory File Format
 
-Source: https://www.frbservices.org/EPaymentsDirectory/fedwireFormat.html
+**Source:** https://www.frbservices.org/EPaymentsDirectory/fedwireFormat.html
 
 | Field Name | Length | Columns |
 | --- | --- | --- |
