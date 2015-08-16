@@ -1,4 +1,4 @@
-# Federal Reserve FedWire and FedACH Data
+# FedWire and FedACH data from the Federal Reserve Bank Services
 
 This repository is a compilation of the **FedWire** and **FedACH** data from the [Federal Reserve Bank Services site](https://www.frbservices.org/).
 
@@ -22,10 +22,10 @@ By accesing the data in this repository your agree to the [Federal Reserve Banks
 
 ## Disclaimer
 
-This repository is a compilation of the FedWire and FedACH data in order to document sources and formats and simplify integration into software development.
+This repository is a compilation of the **FedWire** and **FedACH** data in order to document sources and formats and simplify integration into software development.
 
 **THIS REPOSITORY IS NOT AFFILIATED WITH THE FEDERAL RESERVE BANKS AN IS NOT AN OFFICIAL SOURCE FOR THE FEDWIRE AND THE FEDACH DATA.**
 
 ## Github Compilation
 
-Data compiled and documented by [Alberto A. Colón Viera](http://alberti.co/).
+Data compiled and documented by [**Alberto A. Colón Viera**](http://alberti.co/).
