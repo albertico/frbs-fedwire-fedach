@@ -8,7 +8,7 @@ The Federal Reserve Banks provide the Federal Reserve Bank Services website as a
 
 ### Federal Reserve Bank Customers
 
-If you are using this website as a Federal Reserve Bank customer to access Federal Reserve Bank products and services through a FedLine<sup>®</sup> access solution, you are advised that use of that access solution is governed by Federal Reserve Bank [Operating Circular 5](https://frbservices.org/regulations/operating_circulars.html#5), the applicable [Certification Practice Statement](/regulations/operating_circulars.html#5), and the [Password Practice Statement](https://frbservices.org/regulations/operating_circulars.html#5). The particular products and services you access are also governed by Federal Reserve Bank operating circulars. You may [view these operating circulars here](https://frbservices.org/regulations/operating_circulars.html).
+If you are using this website as a Federal Reserve Bank customer to access Federal Reserve Bank products and services through a FedLine<sup>®</sup> access solution, you are advised that use of that access solution is governed by Federal Reserve Bank [Operating Circular 5](https://frbservices.org/regulations/operating_circulars.html#5), the applicable [Certification Practice Statement](https://frbservices.org/regulations/operating_circulars.html#5), and the [Password Practice Statement](https://frbservices.org/regulations/operating_circulars.html#5). The particular products and services you access are also governed by Federal Reserve Bank operating circulars. You may [view these operating circulars here](https://frbservices.org/regulations/operating_circulars.html).
 
 ### Accuracy, Completeness, and Timeliness of Information on This Site
 
