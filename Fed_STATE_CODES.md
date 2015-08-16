@@ -1,6 +1,6 @@
 # State and Territory Abbreviations
 
-**Source:** https://www.frbservices.org/EPaymentsDirectory/states.html
+**Source:** https://frbservices.org/EPaymentsDirectory/states.html
 
 | Abbreviation | State |
 | --- | --- |

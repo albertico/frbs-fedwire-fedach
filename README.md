@@ -1,6 +1,6 @@
 # FedWire and FedACH data from the Federal Reserve Bank Services
 
-This repository is a compilation of the **FedWire** and **FedACH** data from the [Federal Reserve Bank Services site](https://www.frbservices.org/).
+This repository is a compilation of the **FedWire** and **FedACH** data from the [Federal Reserve Bank Services site](https://frbservices.org/).
 
 ## FedWire Directory
 
