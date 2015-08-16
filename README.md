@@ -18,7 +18,7 @@ This repository is a compilation of the **FedWire** and **FedACH** data from the
 
 (c) Federal Reserve Banks
 
-By accesing the data in this repository your agree to the [Federal Reserve Banks' Terms of Use](FBRS_TERMS.md) and the [E-Payments Routing Directory Terms of Use Agreement](FBRS_AGREEMENT.md).  
+By accesing the data in this repository your agree to the [Federal Reserve Banks' Terms of Use](FRBS_TERMS.md) and the [E-Payments Routing Directory Terms of Use Agreement](FRBS_AGREEMENT.md).  
 
 ## Disclaimer
 
