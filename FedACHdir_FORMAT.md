@@ -13,7 +13,7 @@
 | Customer Name | 36 | 36-71 | Commonly used abbreviated name |
 | Address | 36 | 72-107 | Delivery address |
 | [City](https://frbservices.org/EPaymentsDirectory/fedachCities.html) | 20 | 108-127 | City name in the delivery address |
-| [State Code](https://frbservices.org/EPaymentsDirectory/states.html) | 2 | 128-129 | State code of the state in the delivery address |
+| [State Code](Fed_STATE_CODES.md) | 2 | 128-129 | State code of the state in the delivery address |
 | Zipcode | 5 | 130-134 | Zipcode in the delivery address |
 | Zipcode Extension | 4 | 135-138 | Zipcode extension in the delivery address |
 | Telephone Area Code | 3 | 139-141 | Area code of the CRF contact telephone number |
